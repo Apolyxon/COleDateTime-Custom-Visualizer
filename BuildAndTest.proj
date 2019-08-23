@@ -79,7 +79,7 @@
     <Solution Include="$(HelloWorldDir)cpp\HelloWorld.sln">
       <AdditionalProperties>Configuration=$(Configuration);Platform=Win32</AdditionalProperties>
     </Solution>
-    <Solution Include="$(MSBuildThisFileDirectory)CppCustomVisualizer\CppCustomVisualizer.sln">
+    <Solution Include="$(MSBuildThisFileDirectory)COleDateTimeCustomVisualizer\COleDateTimeCustomVisualizer.sln">
       <AdditionalProperties>Configuration=$(Configuration);Platform=x86</AdditionalProperties>
     </Solution>
   </ItemGroup>
